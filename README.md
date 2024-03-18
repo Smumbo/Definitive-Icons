@@ -10,9 +10,12 @@ Includes:
 - 90+ badges for most game systems playable on 3DS
 - 50+ additional miscellaneous badges
 
-I would recommend only putting the badges that you need onto your 3DS, as there are a lot of them, including many alternative versions of the same icons.
+I would recommend only putting the badges that you need onto your 3DS, as there are a lot of them, including many alternative versions of the same icons. Use [GYTB](https://github.com/MrCheeze/GYTB) to install.
 
 If you have any suggestions for new badges, please [open an issue](https://github.com/Smumbo/DefinitiveIcons/issues), or contact me through the [ThemePlaza Discord server](https://discord.gg/Pz25PX5vr5) (@Smumbo). I'd be happy to make them for you and add them to the next version.
 
+---
+
 Preview:
+
 ![icon](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/9ee17c99-21ce-449e-907f-4a7f2273d9b5)
