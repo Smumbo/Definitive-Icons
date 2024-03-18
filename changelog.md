@@ -8,12 +8,12 @@
 - Moved Game & Watch from Games to Systems
 - Moved RetroArch from Misc to Systems
 
-Companies
+#### Companies
 - Recolor:
     - Bigben Interactive.1
     - Nintendo.2
 
-Games
+#### Games
 - Recolor:
     - Animal Crossing.1
     - Castlevania.3
@@ -44,7 +44,7 @@ Games
     - Metroid.2
     - Pokémon.2
 
-Misc
+#### Misc
 - Recolor:
     - Internet
     - RetroArch
@@ -53,7 +53,7 @@ Misc
 - Rework:
     - StreetPass
 
-Systems
+#### Systems
 - Recolor: 
     - Nintendo 64.2
     - Nintendo Entertainment System.1
@@ -68,7 +68,7 @@ Systems
     - Sega Genesis.2
 
 ### Added
-Companies
+#### Companies
 - Chunsoft
 - Nintendo.3
 - Nintendo.4
@@ -76,7 +76,7 @@ Companies
 - Spike Chunsoft.1
 - Spike Chunsoft.2
 
-Games
+#### Games
 - Ace Attorney.1
 - Ace Attorney.2
 - Animal Crossing.2
@@ -97,14 +97,14 @@ Games
 - Rayman.2
 - Shantae.3
 
-Misc
+#### Misc
 - 2D
 - 3D
 - Divider.1
 - Divider.2
 - MicroSD Card.2
 
-Systems
+#### Systems
 - Atari Lynx.2
 - Magnavox Odyssey
 - NEC PC Engine.2
@@ -142,19 +142,19 @@ Systems
 - Wonderswan Color
 
 ### Removed
-Companies
+#### Companies
 - d3_1
 
-Games
+#### Games
 - donkeykong_1
 - lego_2
 - mega_man_1
 
-Misc
+#### Misc
 - homebrew_1
 - other_7
 
-Systems
+#### Systems
 - atari_2600_1
 - atari_5200_1
 - commodore_amiga
