@@ -28,31 +28,33 @@
     - Star Fox.2
     - Tetris.5
 - Replaced:
+    - Advance Wars.1
     - Bomberman.1
     - Castlevania.1
     - Castlevania.2
-    - Kirby.2
-    - Shantae.1
-- Reworked:
-    - Advance Wars.1
     - Cooking Mama.1
     - Digimon
     - Dragon Ball.2
     - F-Zero
     - Harvest Moon.1
+    - Kirby.2
     - Mega Man.2
-    - Metroid.2
     - Pokémon.2
+    - Shantae.1
 
 #### Misc
 - Recolored:
+    - Apps
+    - Clock
     - Internet
     - RetroArch
     - MicroSD Card.1
+    - Other
     - SD Card.1
+    - Settings
+    - Trash
 - Replaced:
     - Homebrew.1
-- Reworked:
     - StreetPass
 
 #### Systems
@@ -67,11 +69,12 @@
     - Atari 5200.1
     - NEC TurboGrafx-16.1
     - Sega 32X
-- Reworked:
     - Sega Genesis.1
     - Sega Genesis.2
 
 ### Added
+- New set of icons for game genres
+
 #### Companies
 - Chunsoft
 - Nintendo.3
@@ -101,11 +104,35 @@
 - Rayman.2
 - Shantae.3
 
+#### **(NEW)** Genres
+- Action
+- Adventure
+- Arcade
+- Board Game
+- Card Game
+- Educational
+- Fighting
+- Horror
+- Music
+- Narrative
+- Platformer
+- Puzzle
+- Racing
+- RPG
+- Party
+- Shooter
+- Simulation
+- Sports
+- Stealth
+- Strategy
+- Survival
+
 #### Misc
 - 2D
 - 3D
 - Divider.1
 - Divider.2
+- Download Play
 - MicroSD Card.2
 
 #### Systems
@@ -146,6 +173,8 @@
 - Wonderswan Color
 
 ### Removed
+- Removed systems that don't have home screen icon forwarders for 3DS
+
 #### Companies
 - D3.1 (original)
 
