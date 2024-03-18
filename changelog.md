@@ -7,54 +7,63 @@
 - Moved RetroArch from Misc to Systems
 
 ### Companies
-- Recolor: Bigben Interactive.1
-- Recolor: Nintendo.2
+- Recolor:
+    - Bigben Interactive.1
+    - Nintendo.2
 
 ### Games
-- Rework: Advance Wars.1
-- Recolor: Animal Crossing.1
-- Replace: Bomberman.1
-- Replace: Castlevania.1
-- Replace: Castlevania.2
-- Recolor: Castlevania.3
-- Rework: Cooking Mama.1
-- Rework: Digimon
-- Rework: Dragon Ball.2
-- Recolor: Fire Emblem.3
-- Rework: F-Zero
-- Rework: Harvest Moon.1
-- Recolor: Kid Icarus
-- Replace: Kirby.2
-- Recolor: Lego.2
-- Rework: Mega Man.2
-- Recolor: Mega Man.3
-- Rework: Metroid.2
-- Recolor: Metroid.3
-- Rework: Pokémon.2
-- Recolor: Pokémon.3
-- Recolor: Pokémon Ranger
-- Replace: Shantae.1
-- Recolor: Shantae.2
-- Recolor: Star Fox.2
-- Recolor: Tetris.5
+- Recolor:
+    - Animal Crossing.1
+    - Castlevania.3
+    - Fire Emblem.3
+    - Kid Icarus
+    - Lego.2
+    - Mega Man.3
+    - Metroid.3
+    - Pokémon.3
+    - Pokémon Ranger
+    - Shantae.2
+    - Star Fox.2
+    - Tetris.5
+- Replace:
+    - Bomberman.1
+    - Castlevania.1
+    - Castlevania.2
+    - Kirby.2
+    - Shantae.1
+- Rework:
+    - Advance Wars.1
+    - Cooking Mama.1
+    - Digimon
+    - Dragon Ball.2
+    - F-Zero
+    - Harvest Moon.1
+    - Mega Man.2
+    - Metroid.2
+    - Pokémon.2
 
 ### Misc
-- Recolor: Internet
-- Recolor: RetroArch
-- Recolor: MicroSD Card.1
-- Recolor: SD Card.1
-- Rework: StreetPass
+- Recolor:
+    - Internet
+    - RetroArch
+    - MicroSD Card.1
+    - SD Card.1
+- Rework:
+    - StreetPass
 
 ### Systems
-- Replace: NEC TurboGrafx-16.1
-- Recolor: Nintendo 64.2
-- Recolor: Nintendo Entertainment System.1
-- Recolor: Nintendo Game Boy Advance.1
-- Recolor: Nintendo Super NES.1
-- Replace: Sega 32X
-- Rework: Sega Genesis.1
-- Rework: Sega Genesis.2
-- Recolor: Virtual Console.1
+- Recolor: 
+    - Nintendo 64.2
+    - Nintendo Entertainment System.1
+    - Nintendo Game Boy Advance.1
+    - Nintendo Super NES.1
+    - Virtual Console.1
+- Replace:
+    - NEC TurboGrafx-16.1
+    - Sega 32X
+- Rework:
+    - Sega Genesis.1
+    - Sega Genesis.2
 
 ## Added
 ### Companies
