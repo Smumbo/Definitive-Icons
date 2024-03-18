@@ -139,20 +139,20 @@
 - Wonderswan.2
 - Wonderswan Color
 
-## Removed:
-### Companies:
+## Removed
+### Companies
 - d3_1
 
-### Games:
+### Games
 - donkeykong_1
 - lego_2
 - mega_man_1
 
-### Misc:
+### Misc
 - homebrew_1
 - other_7
 
-### Systems:
+### Systems
 - atari_2600_1
 - atari_5200_1
 - commodore_amiga
