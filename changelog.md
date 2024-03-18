@@ -9,12 +9,12 @@
 - Moved RetroArch from Misc to Systems
 
 #### Companies
-- Recolor:
+- Recolored:
     - Bigben Interactive.1
     - Nintendo.2
 
 #### Games
-- Recolor:
+- Recolored:
     - Animal Crossing.1
     - Castlevania.3
     - Fire Emblem.3
@@ -27,13 +27,13 @@
     - Shantae.2
     - Star Fox.2
     - Tetris.5
-- Replace:
+- Replaced:
     - Bomberman.1
     - Castlevania.1
     - Castlevania.2
     - Kirby.2
     - Shantae.1
-- Rework:
+- Reworked:
     - Advance Wars.1
     - Cooking Mama.1
     - Digimon
@@ -45,25 +45,29 @@
     - Pokémon.2
 
 #### Misc
-- Recolor:
+- Recolored:
     - Internet
     - RetroArch
     - MicroSD Card.1
     - SD Card.1
-- Rework:
+- Replaced:
+    - Homebrew.1
+- Reworked:
     - StreetPass
 
 #### Systems
-- Recolor: 
+- Recolored: 
     - Nintendo 64.2
     - Nintendo Entertainment System.1
     - Nintendo Game Boy Advance.1
     - Nintendo Super NES.1
     - Virtual Console.1
-- Replace:
+- Replaced:
+    - Atari 2600.1
+    - Atari 5200.1
     - NEC TurboGrafx-16.1
     - Sega 32X
-- Rework:
+- Reworked:
     - Sega Genesis.1
     - Sega Genesis.2
 
@@ -143,27 +147,24 @@
 
 ### Removed
 #### Companies
-- d3_1
+- D3.1 (original)
 
 #### Games
-- donkeykong_1
-- lego_2
-- mega_man_1
+- Donkey Kong.1 (original)
+- Lego.2 (original)
+- Mega Man.1 (original)
 
 #### Misc
-- homebrew_1
-- other_7
+- Homebrew.1 (original)
+- Other.7
 
 #### Systems
-- atari_2600_1
-- atari_5200_1
-- commodore_amiga
-- msdos
-- nec_supergrafx
-- nintendo_gb_system
-- pico8
-- sega_32x_2
-- sega_cd
-- tic80
-- vectrex
-- zxspectrum
+- Commodore Amiga
+- MS-DOS
+- NEC SuperGrafx
+- Nintendo GB System
+- PICO-8
+- Sega 32X.2
+- TIC-80
+- Vectrex
+- ZX Spectrum
