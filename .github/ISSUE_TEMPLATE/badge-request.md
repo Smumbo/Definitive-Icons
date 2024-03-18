@@ -2,7 +2,7 @@
 name: Badge request
 about: Request a badge to be added
 title: ''
-labels: ''
+labels: request
 assignees: Smumbo
 
 ---
