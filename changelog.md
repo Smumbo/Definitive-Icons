@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.1
+- Modified:
+    - Misc - Homebrew
+- Added:
+    - Misc - Ambassador
+    - Misc - Homebrew Apps
+    - Misc - Homebrew Games
+
 ## v2.0
 
 ### Modified
