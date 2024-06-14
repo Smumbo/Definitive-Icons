@@ -1,6 +1,4 @@
-# Changelog
-
-## v3.0
+# v3.0
 - **Added**: `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0)
 
 ![_seticon](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6f02d87e-1933-462b-8664-c75922659b89)
@@ -16,7 +14,7 @@
 ![Genre  Platformer 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/f5b3fba1-0817-4857-9f92-204df0a11995)
 ![Genre  Platformer 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6d9a30dc-5a5e-4c56-a4df-5619eb23d120)
 
-## v2.1
+# v2.1
 - **Modified**: `[Misc] Homebrew`
 
 ![Misc  Homebrew](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/679d9502-7f8c-4256-a8cc-180cd4dbb4f6)
@@ -33,7 +31,7 @@
 
 ![Misc  Homebrew Games](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4304b4fb-f205-45df-8860-2595268eef56)
 
-## v2.0
+# v2.0
 - Reworked naming system
 - Resized various icons for readability and visual consistency
 - Removed systems that don't have home screen icon forwarders for 3DS
