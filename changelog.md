@@ -1,12 +1,10 @@
 # Changelog
 
 ## v3.0
-- Added:
-    - _seticon.png for installation with Anemone 3.0.0
-    - Alternate set of icons for Genre, without text.
-- Replaced:
-     - Genre - Narrative
-     - Genre - Platformer
+- **Added**: `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0)
+- **Added**: Alternate set of icons for `[Genre]`, without text.
+- **Replaced**: `[Genre] Narrative`
+- **Replaced**: `[Genre] Platformer`
 
 ## v2.1
 - Modified:
