@@ -5,9 +5,9 @@ This badge set includes (hopefully) every icon you will ever need for labeling f
 
 Includes:
 - 73 badges for most major developers/publishers on DS/3DS, including some retro logos.
-- 146 badges for most major game franchises playable on GBA, DS, and 3DS
+- 154 badges for most major game franchises playable on GBA, DS, and 3DS
 - 42 badges for game genres, with and without text
-- 97 badges for most game systems playable on 3DS
+- 98 badges for most game systems playable on 3DS
 - 57 additional miscellaneous badges
 
 I would recommend only putting the badges that you need onto your 3DS, as there are a lot of them, including many alternative versions of the same ones. Use [Anemone](https://github.com/astronautlevel2/Anemone3DS) or [GYTB](https://github.com/MrCheeze/GYTB) to install.
