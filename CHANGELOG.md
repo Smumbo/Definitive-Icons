@@ -1,5 +1,6 @@
 # v3.1
-Added 9 new badges:
+- Added 9 new badges:
+
 | Badge Added | Preview |
 | :---: | :---: |
 | `[Game] Etrian Odyssey` | ![Game  Etrian Odyssey](https://github.com/user-attachments/assets/e39d8632-a8fe-4475-9f21-303c2d4dc353) |
@@ -12,22 +13,24 @@ Added 9 new badges:
 | `[Game] Yu-Gi-Oh!.3` | ![Game  Yu-Gi-Oh! 3](https://github.com/user-attachments/assets/b2ce1ed9-2d17-4513-b803-fd14a45be351) |
 | `[System] Nintendo Entertainment System.3` | ![System  Nintendo Entertainment System 3](https://github.com/user-attachments/assets/70d2a290-1527-4da3-baae-6334b2e381ed) |
 
-Modified 1 badge:
+- Modified 1 badge:
+
 | Badge Modified | Old | New |
 | :---: | :---: | :---: |
 | `[Game] Need For Speed.1` | ![Game  Need For Speed 1](https://github.com/user-attachments/assets/b9025219-811f-44d3-b798-fe2092ca2b6b) | ![Game  Need For Speed 1](https://github.com/user-attachments/assets/6ad9e2f3-6166-41fb-8a35-35e28de4a5a0) |
 
 
 # v3.0
-Added `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0):
+- Added `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0):
 
 ![_seticon](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6f02d87e-1933-462b-8664-c75922659b89)
 
-Added Alternate set of icons for `[Genre]` without text:
+- Added Alternate set of icons for `[Genre]` without text:
 
 ![Untitled-1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/de138a8a-fde2-47fb-b40e-7b5f202db53e)
 
-Modified 2 badges:
+- Modified 2 badges:
+
 | Badge Modified | Old | New |
 | :---: | :---: | :---: |
 | `[Genre] Narrative` | ![Genre  Narrative](https://github.com/user-attachments/assets/d657c533-ae94-4362-adb9-2ad02447fede) | ![Genre  Narrative 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/462a7e30-fe7c-46b2-b751-be12e37821ac) ![Genre  Narrative 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4a755e78-b0ac-4439-850c-4c13a2c6fdb8) |
@@ -35,7 +38,8 @@ Modified 2 badges:
 
 
 # v2.1
-Added 4 new badges:
+- Added 4 new badges:
+
 | Badge Added | Preview |
 | :---: | :---: |
 | `[Misc] (Blank)` | ![Misc  (Blank)](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/dcc745df-0663-43ab-9dc3-1f1a3cef7614) |
@@ -43,7 +47,8 @@ Added 4 new badges:
 | `[Misc] Homebrew Apps` | ![Misc  Homebrew Apps](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/3371108f-e9e0-44af-895f-6888eff879cb) |
 | `[Misc] Homebrew Games` | ![Misc  Homebrew Games](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4304b4fb-f205-45df-8860-2595268eef56) |
 
-Modified 1 badge:
+- Modified 1 badge:
+
 | Badge Modified | Old | New |
 | :---: | :---: | :---: |
 | `[Misc] Homebrew` | ![Misc  Homebrew](https://github.com/user-attachments/assets/9d9066f0-dd5f-46db-8f9b-92a2f92c5c20) | ![Misc  Homebrew](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/679d9502-7f8c-4256-a8cc-180cd4dbb4f6) |
