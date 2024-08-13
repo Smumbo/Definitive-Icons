@@ -19,47 +19,50 @@ Modified 1 badge:
 
 
 # v3.0
-- **Added**: `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0)
+Added `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0):
 
 ![_seticon](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6f02d87e-1933-462b-8664-c75922659b89)
-- **Added**: Alternate set of icons for `[Genre]` without text.
+
+Added Alternate set of icons for `[Genre]` without text:
 
 ![Untitled-1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/de138a8a-fde2-47fb-b40e-7b5f202db53e)
-- **Replaced**: `[Genre] Narrative`
 
-![Genre  Narrative 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/462a7e30-fe7c-46b2-b751-be12e37821ac)
-![Genre  Narrative 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4a755e78-b0ac-4439-850c-4c13a2c6fdb8)
-- **Replaced**: `[Genre] Platformer`
-
-![Genre  Platformer 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/f5b3fba1-0817-4857-9f92-204df0a11995)
-![Genre  Platformer 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6d9a30dc-5a5e-4c56-a4df-5619eb23d120)
+Modified 2 badges:
+| Badge Modified | Old | New |
+| :---: | :---: | :---: |
+| `[Genre] Narrative` | ![Genre  Narrative](https://github.com/user-attachments/assets/d657c533-ae94-4362-adb9-2ad02447fede) | ![Genre  Narrative 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/462a7e30-fe7c-46b2-b751-be12e37821ac) ![Genre  Narrative 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4a755e78-b0ac-4439-850c-4c13a2c6fdb8) |
+| `[Genre] Platformer` | ![Genre  Platformer](https://github.com/user-attachments/assets/275bcb9b-63a9-42c5-9b79-6c91d9229ca1) | ![Genre  Platformer 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/f5b3fba1-0817-4857-9f92-204df0a11995) ![Genre  Platformer 2](https://github.com/user-attachments/assets/3e3a28cd-297b-4733-a448-963f311ce1d1) |
 
 
 # v2.1
-- **Modified**: `[Misc] Homebrew`
+Added 4 new badges:
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Misc] (Blank)` | ![Misc  (Blank)](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/dcc745df-0663-43ab-9dc3-1f1a3cef7614) |
+| `[Misc] Ambassador` | ![Misc  Ambassador](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/0ec26cd9-837d-4af8-879d-9ebb8d21af39) |
+| `[Misc] Homebrew Apps` | ![Misc  Homebrew Apps](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/3371108f-e9e0-44af-895f-6888eff879cb) |
+| `[Misc] Homebrew Games` | ![Misc  Homebrew Games](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4304b4fb-f205-45df-8860-2595268eef56) |
 
-![Misc  Homebrew](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/679d9502-7f8c-4256-a8cc-180cd4dbb4f6)
-- **Added**: `[Misc] (Blank)`
-
-![Misc  (Blank)](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/dcc745df-0663-43ab-9dc3-1f1a3cef7614)
-- **Added**: `[Misc] Ambassador`
-
-![Misc  Ambassador](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/0ec26cd9-837d-4af8-879d-9ebb8d21af39)
-- **Added**: `[Misc] Homebrew Apps`
-
-![Misc  Homebrew Apps](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/3371108f-e9e0-44af-895f-6888eff879cb)
-- **Added**: `[Misc] Homebrew Games`
-
-![Misc  Homebrew Games](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4304b4fb-f205-45df-8860-2595268eef56)
-
+Modified 1 badge:
+| Badge Modified | Old | New |
+| :---: | :---: | :---: |
+| `[Misc] Homebrew` | ![Misc  Homebrew](https://github.com/user-attachments/assets/9d9066f0-dd5f-46db-8f9b-92a2f92c5c20) | ![Misc  Homebrew](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/679d9502-7f8c-4256-a8cc-180cd4dbb4f6) |
 
 # v2.0
-- Reworked naming system
-- Resized various icons for readability and visual consistency
-- Removed systems that don't have home screen icon forwarders for 3DS
-- Moved Game & Watch from `[Games]` to `[Systems]`
-- Moved RetroArch from `[Misc]` to `[Systems]`
-- Added new set of icons for game genres
+Reworked naming system to incorporate `.1`, `.2`, `.3`, etc. as a suffix for additional icons, as GYTB removes the number, but keeps the rest of the name
+
+Resized various icons for readability and visual consistency
+
+Removed systems that don't currently have home screen icon forwarders for 3DS
+
+Moved `Game & Watch` from `[Games]` to `[Systems]`
+
+Moved `RetroArch` from `[Misc]` to `[Systems]`
+
+Added new set of icons for game genres:
+
+![Genres](https://github.com/user-attachments/assets/e0b7113a-4439-415e-8236-f2ab3599a047)
+
     
 - **Recolored**:
     - `[Company]`
