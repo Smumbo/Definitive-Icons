@@ -49,21 +49,14 @@ Modified 1 badge:
 | `[Misc] Homebrew` | ![Misc  Homebrew](https://github.com/user-attachments/assets/9d9066f0-dd5f-46db-8f9b-92a2f92c5c20) | ![Misc  Homebrew](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/679d9502-7f8c-4256-a8cc-180cd4dbb4f6) |
 
 # v2.0
-Reworked naming system to incorporate `.1`, `.2`, `.3`, etc. as a suffix for additional icons, as GYTB removes the number, but keeps the rest of the name
-
-Resized various icons for readability and visual consistency
-
-Removed systems that don't currently have home screen icon forwarders for 3DS
-
-Moved `Game & Watch` from `[Games]` to `[Systems]`
-
-Moved `RetroArch` from `[Misc]` to `[Systems]`
-
-Added new set of icons for game genres:
+- Reworked naming system to incorporate `.1`, `.2`, `.3`, etc. as a suffix for additional icons, as GYTB removes the number, but keeps the rest of the name
+- Resized various icons for readability and visual consistency
+- Removed systems that don't currently have home screen icon forwarders for 3DS
+- Moved `Game & Watch` from `[Games]` to `[Systems]`
+- Moved `RetroArch` from `[Misc]` to `[Systems]`
+- Added new set of icons for game genres:
 
 ![Genres](https://github.com/user-attachments/assets/e0b7113a-4439-415e-8236-f2ab3599a047)
-
-    
 - **Recolored**:
     - `[Company]`
         - `Bigben Interactive.1`
