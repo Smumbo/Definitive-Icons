@@ -1,3 +1,23 @@
+# v3.1
+Added 9 new badges:
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] Etrian Odyssey` | ![Game  Etrian Odyssey](https://github.com/user-attachments/assets/e39d8632-a8fe-4475-9f21-303c2d4dc353) |
+| `[Game] Resident Evil.1` | ![Game  Resident Evil 1](https://github.com/user-attachments/assets/831f6e73-aee9-4d96-82ad-c609ac4e50a1) |
+| `[Game] Resident Evil.2` | ![Game  Resident Evil 2](https://github.com/user-attachments/assets/894f2781-5d8a-4113-8e3d-410d912f5a36) |
+| `[Game] Yo-Kai Watch.1` | ![Game  Yo-Kai Watch 1](https://github.com/user-attachments/assets/5d40b17b-2e1e-432a-9cca-df13c73dba4c) |
+| `[Game] Yo-Kai Watch.2` | ![Game  Yo-kai Watch 2](https://github.com/user-attachments/assets/c9a85aad-7024-44de-bb69-af342f941dc4) |
+| `[Game] Yu-Gi-Oh!.1` | ![Game  Yu-Gi-Oh! 1](https://github.com/user-attachments/assets/5a477e9d-a83d-4f44-8912-0292620150c4) |
+| `[Game] Yu-Gi-Oh!.2` | ![Game  Yu-Gi-Oh! 2](https://github.com/user-attachments/assets/ee296304-070c-41bc-9b76-ba5afbf6236a) |
+| `[Game] Yu-Gi-Oh!.3` | ![Game  Yu-Gi-Oh! 3](https://github.com/user-attachments/assets/b2ce1ed9-2d17-4513-b803-fd14a45be351) |
+| `[System] Nintendo Entertainment System.3` | ![System  Nintendo Entertainment System 3](https://github.com/user-attachments/assets/70d2a290-1527-4da3-baae-6334b2e381ed) |
+
+Modified 1 badge:
+| Badge Modified | Old | New |
+| :---: | :---: | :---: |
+| `[Game] Need For Speed.1` | ![Game  Need For Speed 1](https://github.com/user-attachments/assets/b9025219-811f-44d3-b798-fe2092ca2b6b) | ![Game  Need For Speed 1](https://github.com/user-attachments/assets/6ad9e2f3-6166-41fb-8a35-35e28de4a5a0) |
+
+
 # v3.0
 - **Added**: `_seticon.png`, for installation with [Anemone 3.0.0](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.0)
 
@@ -13,6 +33,7 @@
 
 ![Genre  Platformer 1](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/f5b3fba1-0817-4857-9f92-204df0a11995)
 ![Genre  Platformer 2](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/6d9a30dc-5a5e-4c56-a4df-5619eb23d120)
+
 
 # v2.1
 - **Modified**: `[Misc] Homebrew`
@@ -30,6 +51,7 @@
 - **Added**: `[Misc] Homebrew Games`
 
 ![Misc  Homebrew Games](https://github.com/Smumbo/DefinitiveIcons/assets/38147112/4304b4fb-f205-45df-8860-2595268eef56)
+
 
 # v2.0
 - Reworked naming system
