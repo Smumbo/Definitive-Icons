@@ -1,7 +1,15 @@
 # v3.2
+- Added 7 new badges:
+
 | Badge Added | Preview |
 | :---: | :---: |
-| `[Game] Azure Striker Gunvolt` |   |
+| `[Game] Azure Striker Gunvolt` | |
+| `[Game] Culdcept` | |
+| `[Game] Dementium` | |
+| `[Game] Style Savvy` | |
+| `[Genre] Fashion.1` | |
+| `[Genre] Fashion.2` | |
+| `[Misc] Plus` | |
 
 # v3.1
 - Added 9 new badges:
