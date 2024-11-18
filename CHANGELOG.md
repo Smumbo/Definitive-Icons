@@ -1,3 +1,8 @@
+# v3.2
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] Azure Striker Gunvolt` |   |
+
 # v3.1
 - Added 9 new badges:
 
