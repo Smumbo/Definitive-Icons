@@ -1,3 +1,16 @@
+# v3.2
+- Added 7 new badges:
+
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] Azure Striker Gunvolt` | ![Game  Azure Striker Gunvolt](https://github.com/user-attachments/assets/4827f2bd-977f-4e59-a792-09293c433c31) |
+| `[Game] Culdcept` | ![Game  Culdcept](https://github.com/user-attachments/assets/fa461189-d9c9-4573-8be3-f7340c520054) |
+| `[Game] Dementium` | ![Game  Dementium](https://github.com/user-attachments/assets/35c3e500-554b-48ea-b595-10bff3e3cfb1) |
+| `[Game] Style Savvy` | ![Game  Style Savvy](https://github.com/user-attachments/assets/a4e3ef69-061c-4bd4-96e5-c9ffc4f83446) |
+| `[Genre] Fashion.1` | ![Genre  Fashion 1](https://github.com/user-attachments/assets/eb7984d0-56a9-454c-9b68-32ad7a49699f) |
+| `[Genre] Fashion.2` | ![Genre  Fashion 2](https://github.com/user-attachments/assets/5e97b555-7690-4ed7-8d27-a4312fd38f1c) |
+| `[Misc] Plus` | ![Misc  Plus](https://github.com/user-attachments/assets/60462e46-1013-4f61-b830-ace4fcc54c37) |
+
 # v3.1
 - Added 9 new badges:
 
