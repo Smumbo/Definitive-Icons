@@ -6,6 +6,7 @@
 | `[Game] Hatsune Miku.1` |  |
 | `[Game] Hatsune Miku.2` |  |
 | `[Game] Monster High` |  |
+| `[Game] Pushmo` |  |
 
 # v3.2
 - Added 7 new badges:
