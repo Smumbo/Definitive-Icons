@@ -10,6 +10,8 @@
 | `[Game] Persona Q` |  |
 | `[Game] Pushmo` |  |
 | `[Game] Starry Sky` |  |
+| `[Misc] Divider.3` |  |
+| `[Misc] Divider.4` |  |
 
 # v3.2
 - Added 7 new badges:
