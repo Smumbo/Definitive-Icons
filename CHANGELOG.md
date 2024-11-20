@@ -2,6 +2,7 @@
 
 | Badge Added | Preview |
 | :---: | :---: |
+| `[Game] 3D Classics` |  |
 | `[Game] BoxBoy!` |  |
 | `[Game] Hatsune Miku.1` |  |
 | `[Game] Hatsune Miku.2` |  |
