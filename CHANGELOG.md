@@ -1,3 +1,19 @@
+# v3.3
+- Added 10 new badges:
+
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] 3D Classics` | ![Game  3D Classics](https://github.com/user-attachments/assets/4a39e8b7-f2b2-41e9-8b3f-a33aeb95c79c) |
+| `[Game] BoxBoy!` | ![Game  BoxBoy!](https://github.com/user-attachments/assets/d7f389d6-6acb-4a13-a855-7936d6d78835) |
+| `[Game] Hatsune Miku.1` | ![Game  Hatsune Miku 1](https://github.com/user-attachments/assets/7d6c232c-a8b9-4934-b98f-b5b6ddd632ca) |
+| `[Game] Hatsune Miku.2` | ![Game  Hatsune Miku 2](https://github.com/user-attachments/assets/f8b1dcfe-96bd-4a94-b34f-fd6e4ad21cab) |
+| `[Game] Monster High` | ![Game  Monster High](https://github.com/user-attachments/assets/7fc850ba-41e1-4bb0-a254-dde445fa0738) |
+| `[Game] Persona Q` | ![Game  Persona Q](https://github.com/user-attachments/assets/27bc11b9-8f4d-4335-9e71-dd76d10337fe) |
+| `[Game] Pushmo` | ![Game  Pushmo](https://github.com/user-attachments/assets/75fee678-863c-4223-ba22-73cc5bd7a0a5) |
+| `[Game] Starry Sky` | ![Game  Starry Sky](https://github.com/user-attachments/assets/e992b48e-ad06-4b7c-ac33-4dff204e5f74) |
+| `[Misc] Divider.3` | ![Misc  Divider 3](https://github.com/user-attachments/assets/c5b4cc0e-96b9-46dc-b7cd-d051409f20f7) |
+| `[Misc] Divider.4` | ![Misc  Divider 4](https://github.com/user-attachments/assets/fa8fd475-3a6a-447b-882e-9cfe7a6b4cdb) |
+
 # v3.2
 - Added 7 new badges:
 

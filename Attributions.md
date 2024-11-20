@@ -1,1 +1,2 @@
 dress by Corner Pixel from <a href="https://thenounproject.com/browse/icons/term/dress/" target="_blank" title="dress Icons">Noun Project</a> (CC BY 3.0)
+Miku Nendoroid Style Icon from [Noah Mead](https://noahmead.tumblr.com/post/174603237609/miku)
