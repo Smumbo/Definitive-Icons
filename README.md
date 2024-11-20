@@ -5,7 +5,7 @@ This badge set includes (hopefully) every icon you will ever need for labeling f
 
 Includes:
 - 73 badges for most major developers/publishers on DS/3DS, including some retro logos.
-- 158 badges for most major game franchises playable on GBA, DS, and 3DS
+- 159 badges for most major game franchises playable on GBA, DS, and 3DS
 - 44 badges for game genres, with and without text
 - 98 badges for most game systems playable on 3DS
 - 58 additional miscellaneous badges

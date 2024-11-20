@@ -1,3 +1,9 @@
+# v3.3
+
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] Monster High` |  |
+
 # v3.2
 - Added 7 new badges:
 
