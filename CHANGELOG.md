@@ -2,9 +2,10 @@
 
 | Badge Added | Preview |
 | :---: | :---: |
-| `[Game] Monster High` |  |
+| `[Game] BoxBoy!` |  |
 | `[Game] Hatsune Miku.1` |  |
 | `[Game] Hatsune Miku.2` |  |
+| `[Game] Monster High` |  |
 
 # v3.2
 - Added 7 new badges:
