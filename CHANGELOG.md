@@ -1,4 +1,5 @@
 # v3.3
+- Added 10 new badges:
 
 | Badge Added | Preview |
 | :---: | :---: |
