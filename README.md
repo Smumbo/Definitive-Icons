@@ -8,7 +8,7 @@ Includes:
 - 166 badges for most major game franchises playable on GBA, DS, and 3DS
 - 44 badges for game genres, with and without text
 - 98 badges for most game systems playable on 3DS
-- 58 additional miscellaneous badges
+- 60 additional miscellaneous badges
 
 I would recommend only putting the badges that you need onto your 3DS, as there are a lot of them, including many alternative versions of the same ones. Use [Anemone](https://github.com/astronautlevel2/Anemone3DS) or [GYTB](https://github.com/MrCheeze/GYTB) to install.
 
