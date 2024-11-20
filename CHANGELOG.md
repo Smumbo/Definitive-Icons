@@ -9,6 +9,7 @@
 | `[Game] Monster High` |  |
 | `[Game] Persona Q` |  |
 | `[Game] Pushmo` |  |
+| `[Game] Starry☆Sky` |  |
 
 # v3.2
 - Added 7 new badges:
